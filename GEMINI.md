@@ -17,6 +17,7 @@ The site will feature:
 
 *   Keep the design and code as minimal as possible.
 *   Ensure every line of the source code is understandable.
+*   If in doubt about adding a complicated feature, always ask first.
 
 ### Don't
 
